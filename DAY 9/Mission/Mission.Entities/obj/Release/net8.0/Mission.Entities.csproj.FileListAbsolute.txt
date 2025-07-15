@@ -1,0 +1,12 @@
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Entities\bin\Release\net8.0\Mission.Entities.deps.json
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Entities\bin\Release\net8.0\Mission.Entities.dll
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Entities\bin\Release\net8.0\Mission.Entities.pdb
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Entities\obj\Release\net8.0\Mission.Entities.csproj.AssemblyReference.cache
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Entities\obj\Release\net8.0\Mission.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Entities\obj\Release\net8.0\Mission.Entities.AssemblyInfoInputs.cache
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Entities\obj\Release\net8.0\Mission.Entities.AssemblyInfo.cs
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Entities\obj\Release\net8.0\Mission.Entities.csproj.CoreCompileInputs.cache
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Entities\obj\Release\net8.0\Mission.Entities.dll
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Entities\obj\Release\net8.0\refint\Mission.Entities.dll
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Entities\obj\Release\net8.0\Mission.Entities.pdb
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Entities\obj\Release\net8.0\ref\Mission.Entities.dll
