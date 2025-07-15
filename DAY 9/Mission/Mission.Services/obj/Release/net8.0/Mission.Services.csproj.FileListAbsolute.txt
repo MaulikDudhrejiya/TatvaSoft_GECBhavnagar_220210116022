@@ -1,0 +1,17 @@
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Services\bin\Release\net8.0\Mission.Services.deps.json
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Services\bin\Release\net8.0\Mission.Services.dll
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Services\bin\Release\net8.0\Mission.Services.pdb
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Services\bin\Release\net8.0\Mission.Entities.dll
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Services\bin\Release\net8.0\Mission.Repositories.dll
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Services\bin\Release\net8.0\Mission.Repositories.pdb
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Services\bin\Release\net8.0\Mission.Entities.pdb
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Services\obj\Release\net8.0\Mission.Services.csproj.AssemblyReference.cache
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Services\obj\Release\net8.0\Mission.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Services\obj\Release\net8.0\Mission.Services.AssemblyInfoInputs.cache
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Services\obj\Release\net8.0\Mission.Services.AssemblyInfo.cs
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Services\obj\Release\net8.0\Mission.Services.csproj.CoreCompileInputs.cache
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Services\obj\Release\net8.0\Mission..F9A2C6AE.Up2Date
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Services\obj\Release\net8.0\Mission.Services.dll
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Services\obj\Release\net8.0\refint\Mission.Services.dll
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Services\obj\Release\net8.0\Mission.Services.pdb
+C:\Users\MAULIK\source\repos\Solution\Mission\Mission.Services\obj\Release\net8.0\ref\Mission.Services.dll
